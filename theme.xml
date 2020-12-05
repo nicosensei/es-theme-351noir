@@ -135,6 +135,24 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 </view>
 
+<view name="screen">
+    <batteryIndicator name="batteryIndicator">
+      <pos>0.955 0.0125</pos>
+      <size>0.033 0.033</size>
+      <incharge>./_art/battery/incharge.svg</incharge>
+      <full>./_art/battery/full.svg</full>
+      <at75>./_art/battery/75.svg</at75>
+      <at50>./_art/battery/50.svg</at50>
+      <at25>./_art/battery/25.svg</at25>
+      <empty>./_art/battery/empty.svg</empty>
+      <color>FFFFFFA0</color>
+    </batteryIndicator>
+    <batteryIndicator name="batteryIndicator" tinyScreen="true">
+      <pos>0.915 0.013</pos>
+      <size>0.07 0.07</size>
+    </batteryIndicator>
+</view>
+
 <view name="basic, detailed, video">
 
     <image name="background" extra="true">
