@@ -1,6 +1,7 @@
 ## 351 Noir 351ELEC Theme
 
-This is a modern dark 351ELEC theme heavily based on the [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir) theme (and thus, original ideas by Chicuelo and brought to life in collaboration with Nick L, aka c64-dev).
+This is a modern horizontal theme based on [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir), that matches the 351ELEC black/white/red aesthetic and the RG351P handheld's resolution and aspect ratio.
+
 
 ---
 
@@ -45,6 +46,8 @@ By downloading and installing this theme it will be assumed that you own and pos
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
+* Horizontal layout.
+* The battery indicator ranges from green to red, matching the state of your battery.
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
 
