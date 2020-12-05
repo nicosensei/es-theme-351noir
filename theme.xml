@@ -50,7 +50,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
      </image>
 
     <carousel name="systemcarousel">
-        <type>vertical</type>
+        <type>horizontal</type>
         <color>00000000</color>
         <origin>1 1</origin>
         <pos>0 0</pos>
