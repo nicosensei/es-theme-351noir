@@ -81,65 +81,6 @@ Sorry, they're crappy I know but there is currently no way to take screenshots w
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
 
 ## Fully Supported Systems
-###### (backgrounds, controller images, descriptions) :
-
-3DO \
-Amstrad CPC \
-Apple ][ \
-Apple Macintosh \
-Atari 800 \
-Atari 2600 \
-Atari 5200 \
-Atari 7800 \
-Atari Jaguar \
-Atari Lynx \
-Atari ST \
-Commodore 64 \
-Commodore Amiga \
-ColecoVision \ 
-Daphne \
-Famicom & Super Famicom \ 
-Game & Watch \
-Intellivision \
-MAME \ 
-MS-DOS \
-MSX & MSX 2 \
-Neo Geo \
-Neo Geo Pocket & Pocket Color \ 
-Nintendo 64 \
-Nintendo DS \
-Nintendo Dreamcast \ 
-Nintendo Entertainment System \
-Nintendo Gameboy \
-Nintendo Gameboy  Advance\
-Nintendo Gameboy Color \
-Nintendo GameCube \
-Nintendo SNES \
-Nintendo VirtualBoy \
-Nintendo Wii & WiiU \
-PC-Engine \
-ScummVM \
-Sega Gamegear \
-Sega Genesis \
-Sega Mastersystem \
-Sega Mega 32x & CD \
-Sega Megadrive \
-Sega Saturn \
-Sega SG-1000 \
-Sinclair ZX Spectrum \
-Sony Playstation \
-Sony Playstation 2 \
-Sony PSP \
-SuperGrafx \
-TurboGrafx-16 \
-Valve Steam \
-Vectrex \
-Wonderswan \
-Wonderswan Color \
-x-68000 
-
-**Collections:** \
-Auto Collections
-Custom Collections (for when a user creates their own collection within ES)
+###### (backgrounds, controller images, descriptions) : [See here](https://github.com/c64-dev/es-theme-epicnoir#fully-supported-systems)
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
