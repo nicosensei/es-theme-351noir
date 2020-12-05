@@ -52,7 +52,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Installation and Updating
 
-1. Download the .7z file from the [Releases section](https://github.com/MonsieurDaz/es-theme-351noir/releases) and extract it.
+1. Download the .zip file from the [Releases section](https://github.com/MonsieurDaz/es-theme-351noir/releases) and extract it.
 
 2. Copy the es-theme-351noir folder to `~/.config/emulationstation/themes` in the ext4 partition of 351ELEC.
 
