@@ -1,6 +1,6 @@
-## EpicNoir RetroPie Theme
+## 351 Noir 351ELEC Theme
 
-This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
+This is a modern dark 351ELEC theme heavily based on the Epic Noir(https://github.com/c64-dev/es-theme-epicnoir) theme (and thus, original ideas by Chicuelo and brought to life in collaboration with Nick - c64-dev - L).
 
 ---
 
