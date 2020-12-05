@@ -29,10 +29,10 @@ By downloading and installing this theme it will be assumed that you own and pos
 ---
 
 ### Thanks and Credits
-Chicuelo and c64-dev.
+Chicuelo and c64-dev for the original theme.
 ScreenScraper.
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
-Most of them can be found in [DeviantArt](http://www.deviantart.com/).
+Most of them can be found on [ScreenScraper](https://www.screenscraper.fr/).
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
 
@@ -41,7 +41,7 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 ### Features
 
 * Dark and clean interface
-* New high quality wallpapers for all systems
+* 3:2 wallpapers for all systems
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
@@ -54,9 +54,9 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
 1. Download the .7z file from the [Releases section](https://github.com/MonsieurDaz/es-theme-351noir/releases) and extract it.
 
-2. Copy the resulting folder in `~/.emulationstation/themes` that is in the ext4 partition.
+2. Copy the es-theme-351noir folder to `~/.config/emulationstation/themes` in the ext4 partition of 351ELEC.
 
-Or just download it from the theme-downloader in 351ELEC.
+Or just download the theme from the Theme Downloader within 351ELEC.
 
 ### Theme Notes
 
