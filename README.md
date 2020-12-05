@@ -1,6 +1,6 @@
 ## 351 Noir 351ELEC Theme
 
-This is a modern dark 351ELEC theme heavily based on the [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir) theme (and thus, original ideas by Chicuelo and brought to life in collaboration with Nick - c64-dev - L).
+This is a modern dark 351ELEC theme heavily based on the [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir) theme (and thus, original ideas by Chicuelo and brought to life in collaboration with Nick L, aka c64-dev).
 
 ---
 
@@ -41,7 +41,7 @@ Most of them can be found on [ScreenScraper](https://www.screenscraper.fr/).
 ### Features
 
 * Dark and clean interface
-* 3:2 wallpapers for all systems
+* 480x320 (3:2) wallpapers for all systems
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
