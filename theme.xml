@@ -236,7 +236,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <text>${system.releaseYearOrNull}</text>
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
-        <fontSize>0.035</fontSize>
+        <fontSize>0.030</fontSize>
         <color>FF0000</color>
         <origin>0 0</origin>
         <pos>0.429 0.63</pos>
