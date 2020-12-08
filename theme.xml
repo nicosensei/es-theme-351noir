@@ -234,6 +234,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <datetime name="md_releasedate>
       <origin>0 0</origin>
+      <size>0.16 0.025</size>
       <pos>0.429 0.67</pos>
       <alignment>right</alignment>
       <fontPath>./_art/Acre.otf</fontPath>
