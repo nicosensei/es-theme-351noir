@@ -242,6 +242,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	
     <text name="md_lbl_releasedate">
 	<origin>0 0</origin>
+	<fontSize>0.03</fontSize>
+	<color>FF0000</color>
         <pos>0.429 0.65</pos>
     </text>
 
