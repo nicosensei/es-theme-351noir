@@ -230,7 +230,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <origin>0 0</origin>
         <pos>0.429 0.44</pos>
         <size>0.5 0.5</size>
-    </text> 
+    </text>
+	
+    <datetime name="md_releasedate, md_lastplayed">
+      <alignment>right</alignment>
+      <fontPath>./_art/Acre.otf</fontPath>
+      <fontSize>0.025</fontSize>
+       <color>FF0000</color>
+      <forceUppercase>false</forceUppercase>
+    </datetime>
 				   
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
