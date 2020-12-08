@@ -209,17 +209,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <pos>0.429 0.740</pos>
 	    <size>0.5 0.1111</size>
     </text>
-	
-    <datetime name="md_releasedate">
-        <fontPath>./_art/Acre.otf</fontPath>
-	    <color>818181</color>
-        <fontSize>0.05</fontSize>
-	    <alignment>left</alignment>
-        <forceUppercase>0</forceUppercase>
-        <lineSpacing>1</lineSpacing>
-	    <pos>0.429 0.50</pos>
-	    <size>0.5 0.1111</size>
-    </datetime>
     
 <!-- Place metadata --> 
 
