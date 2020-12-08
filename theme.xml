@@ -206,14 +206,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <lineSpacing>1</lineSpacing>
-	    <pos>0.429 0.760</pos>
+	    <pos>0.429 0.740</pos>
 	    <size>0.5 0.1111</size>
     </text>
     
 <!-- Place metadata --> 
 
     <rating name="md_rating" extra="true">
-        <pos>0.75 0.69</pos>
+        <pos>0.75 0.67</pos>
         <size>0 0.05</size>
         <filledPath>./_art/var/star_filled.svg</filledPath>
         <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
@@ -229,7 +229,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.03</fontSize>
         <color>FF0000</color>
         <origin>0 0</origin>
-        <pos>0.429 0.46</pos>
+        <pos>0.429 0.44</pos>
         <size>0.5 0.5</size>
     </text> 
         
@@ -250,7 +250,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <image name="md_image">
         <tile>false</tile>
         <origin>0.5 0.5</origin>
-        <pos>0.66 0.40</pos>
+        <pos>0.66 0.38</pos>
         <maxSize>0.5 0.5</maxSize>
     </image>
 </view>
@@ -259,7 +259,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <view name="video">
         <video name="md_video">
             <origin>0.5 0.5</origin>
-            <pos>0.66 0.40</pos>
+            <pos>0.66 0.38</pos>
             <maxSize>0.5 0.5</maxSize>
             <delay>0.7</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
