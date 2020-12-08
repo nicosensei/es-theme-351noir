@@ -238,8 +238,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <fontSize>0.025</fontSize>
        <color>FF0000</color>
       <forceUppercase>false</forceUppercase>
-      <pos>0.429 0.60</pos>
-    </datetime>
+      <pos>0.429 0.800</pos>
+      </datetime>
 				   
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
