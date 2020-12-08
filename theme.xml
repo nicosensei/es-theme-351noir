@@ -232,6 +232,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.5 0.5</size>
     </text> 
         
+    <text name="releaseYyear" extra="true">
+        <text>${system.releaseYearOrNull}</text>
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <fontSize>0.05</fontSize>
+        <color>FF0000</color>
+        <origin>0 0</origin>
+        <pos>0.429 0.60</pos>
+        <size>0.5 0.5</size>
+     </text>
+
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
         <origin>1 1</origin>
