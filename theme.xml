@@ -188,7 +188,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.20 0.08</size>
     </text>
     
-  <text name="nameLabel" extra="true">
+    <text name="nameLabel" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
@@ -198,7 +198,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0.429 0</pos>
         <size>0.40 0.075</size>
     </text>
-	
+
     <text name="md_description">
         <fontPath>./_art/Acre.otf</fontPath>
 	    <color>818181</color>
@@ -206,18 +206,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <lineSpacing>1</lineSpacing>
-	    <pos>0.429 0.740</pos>
+	    <pos>0.429 0.780</pos>
 	    <size>0.5 0.1111</size>
     </text>
     
 <!-- Place metadata --> 
 
     <rating name="md_rating" extra="true">
-        <pos>0.75 0.67</pos>
+        <pos>0.75 0.71</pos>
         <size>0 0.05</size>
         <filledPath>./_art/var/star_filled.svg</filledPath>
         <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
     </rating>
+
            
 <!-- Extra Text Labels. Edit text values if needed.-->
 
@@ -225,22 +226,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <text>Description</text>
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
-        <fontSize>0.043</fontSize>
+        <fontSize>0.03</fontSize>
         <color>FF0000</color>
         <origin>0 0</origin>
-        <pos>0.429 0.44</pos>
+        <pos>0.429 0.48</pos>
         <size>0.5 0.5</size>
-    </text>
-	
-    <datetime name="md_releasedate>
-      <alignment>right</alignment>
-      <fontPath>./_art/Acre.otf</fontPath>
-      <fontSize>0.025</fontSize>
-       <color>FF0000</color>
-      <forceUppercase>false</forceUppercase>
-      <pos>0.429 0.60</pos>
-      </datetime>
-				   
+    </text> 
+        
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
         <origin>1 1</origin>
@@ -258,7 +250,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <image name="md_image">
         <tile>false</tile>
         <origin>0.5 0.5</origin>
-        <pos>0.66 0.38</pos>
+        <pos>0.66 0.42</pos>
         <maxSize>0.5 0.5</maxSize>
     </image>
 </view>
@@ -267,9 +259,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <view name="video">
         <video name="md_video">
             <origin>0.5 0.5</origin>
-            <pos>0.66 0.38</pos>
+            <pos>0.66 0.42</pos>
             <maxSize>0.5 0.5</maxSize>
-            <delay>0.7</delay>
+            <delay>0.5</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>
         </video>
