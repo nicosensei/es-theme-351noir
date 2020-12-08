@@ -240,16 +240,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.5 0.5</size>
 	<pos>0.429 0.65</pos>
      </datetime>
-	
-    <text name="md_lbl_releasedate">
-	<fontPath>./_art/Acre.otf</fontPath>
-        <alignment>left</alignment>
-        <fontSize>0.03</fontSize>
-        <color>FF0000</color>
-        <size>0.5 0.5</size>
-	<pos>0.429 0.65</pos>
-     </datetime>
-
 
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
