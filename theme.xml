@@ -199,6 +199,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.75 0.075</size>
     </text>
 
+<datetime name="md_releasedate">
+	<fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>1</forceUppercase>
+        <color>FF0000</color>
+        <fontSize>0.07</fontSize>
+        <origin>0 0</origin>
+        <pos>0.60 0</pos>
+        <size>0.75 0.075</size>
+	</date>
+	
     <text name="md_description">
         <fontPath>./_art/Acre.otf</fontPath>
 	    <color>818181</color>
