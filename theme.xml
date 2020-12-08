@@ -233,6 +233,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text> 
 
     <datetime name="md_releasedate>
+      <origin>0 0</origin>
+      <pos>0.429 0.67</pos>
       <size>0.5 0.1111</size>
       <alignment>right</alignment>
       <fontPath>./_art/Acre.otf</fontPath>
@@ -244,10 +246,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <origin>0 0</origin>
       <pos>0.429 0.67</pos>
     </text>
-    <datetime name="md_releasedate">
-      <origin>0 0</origin>
-      <pos>0.429 0.67</pos>
-    </datetime>
 				   
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
