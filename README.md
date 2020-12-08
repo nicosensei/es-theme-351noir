@@ -88,4 +88,8 @@ Sorry, they're crappy I know but there is currently no way to take screenshots w
 ## Fully Supported Systems
 ###### (backgrounds, controller images, descriptions) : [See here](https://github.com/c64-dev/es-theme-epicnoir#fully-supported-systems)
 
+## Plus:
+* Final Burn Neo
+* PSP Minis
+
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
