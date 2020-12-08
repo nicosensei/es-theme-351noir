@@ -231,7 +231,24 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0.429 0.44</pos>
         <size>0.5 0.5</size>
     </text> 
-        	
+
+    <datetime name="md_releasedate>
+      <size>0.16 0.025</size>
+      <alignment>right</alignment>
+      <fontPath>./_art/Acre.otf</fontPath>
+      <fontSize>0.03</fontSize>
+      <color>FF0000</color>
+      <forceUppercase>false</forceUppercase>
+    </datetime>
+    <text name="md_lbl_releasedate">
+      <origin>0 0</origin>
+      <pos>0.429 0.67</pos>
+    </text>
+    <datetime name="md_releasedate">
+      <origin>0 0</origin>
+      <pos>0.429 0.67</pos>
+    </datetime>
+				   
 <!-- Hidden Elements -->
     <text name="shortdescription, longdescription" extra="true">
         <origin>1 1</origin>
