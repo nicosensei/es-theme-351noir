@@ -218,13 +218,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <filledPath>./_art/var/star_filled.svg</filledPath>
         <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
     </rating>
-
-    <datetime name="md_releasedate>
-	<color>FF0000</color>
-	<fontSize>0.07</fontSize>
-        <origin>0 0</origin>
-        <pos>0.70 0</pos>
-    </datetime>	
            
 <!-- Extra Text Labels. Edit text values if needed.-->
 
