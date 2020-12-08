@@ -202,7 +202,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="md_description">
         <fontPath>./_art/Acre.otf</fontPath>
 	    <color>818181</color>
-        <fontSize>0.05</fontSize>
+        <fontSize>0.03</fontSize>
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <lineSpacing>1</lineSpacing>
