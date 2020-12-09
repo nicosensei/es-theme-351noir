@@ -238,7 +238,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <fontPath>./_art/Acre.otf</fontPath>
       <fontSize>0.03</fontSize>
       <color>FF0000</color>
-      <pos>0.429 0.70</pos>
+      <pos>0.429 0.760</pos>
+      <size>0.5 0.1111</size>
     </datetime>
 	
 <!-- Hidden Elements -->
