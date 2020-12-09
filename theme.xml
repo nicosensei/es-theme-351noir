@@ -234,11 +234,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text> 
         
     <datetime name="md_releasedate">
-      <alignment>right</alignment>
+      <alignment>left</alignment>
       <fontPath>./_art/Acre.otf</fontPath>
-      <fontSize>0.025</fontSize>
+      <fontSize>0.03</fontSize>
       <color>FF0000</color>
-      <pos>0.429 0.60</pos>
+      <pos>0.429 0.600</pos>
     </datetime>
 	
 <!-- Hidden Elements -->
