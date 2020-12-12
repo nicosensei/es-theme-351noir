@@ -281,10 +281,41 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>0.5 0.5</origin>
             <pos>0.66 0.38</pos>
             <maxSize>0.5 0.5</maxSize>
-            <delay>0.5</delay>
+            <delay>1</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>
         </video>
     </view>
 </feature>
+
+<view name="menu">
+
+    <menuText name="menufooter">
+        <fontSize>.025</fontSize>
+        <color>ffffffff</color>
+    </menuText>
+
+    <menuText name="menutext">
+        <fontSize>.042</fontSize>
+        <color>ffffffff</color>
+        <separatorColor>ffffffff</separatorColor>
+        <selectorColor>ffffffff</selectorColor>
+        <selectedColor>333333FF</selectedColor>
+    </menuText>
+
+    <menuTextSmall name="menutextsmall">
+        <fontSize>.035</fontSize>
+        <color>ffffffff</color>
+    </menuTextSmall>
+
+    <menuText name="menutitle">
+        <fontSize>.06</fontSize>
+        <color>ffffffff</color>
+    </menuText>
+
+    <menuBackground name="menubg">
+        <color>22222222</color>
+    </menuBackground>
+
+</view>
 </theme>
