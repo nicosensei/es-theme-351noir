@@ -1,0 +1,103 @@
+<!--
+Theme name:  351 Noir
+Author:      MonsieurDaz
+Edited by:   Nikojiro
+Based on:	 Epic Noir
+Artwork by:  Various 
+Coding by:   Nick L (c64-dev) & MonsieurDaz
+Fonts used:  Acre Medium & Bebas Neue Bold
+
+# Thanks and Credits
+Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
+
+# License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
+-->
+
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        
+        <text name="sys_line1" extra="true">
+            <color>FF0000</color>
+        </text>
+        
+        <text name="sys_line2" extra="true">
+            <color>FF0000</color>
+        </text>
+
+        <text name="shortdescription" extra="true">
+            <color>9b9a9a</color>
+        </text>
+
+        <text name="systemInfo">
+            <color>FF0000</color>
+        </text>
+        
+        <text name="longdescription" extra="true">
+            <color>8F8F8F</color>
+        </text>
+
+    </view>
+
+    <view name="basic, detailed, video">
+
+        <textlist name="gamelist">
+            <selectorColor>FF0000</selectorColor>
+            <selectedColor>F8F8F8</selectedColor>
+        </textlist>
+        
+        <text name="top_label" extra="true">
+            <color>F8F8F8</color>
+        </text>
+        
+        <text name="nameLabel" extra="true">
+            <color>FF0000</color>
+        </text>
+
+        <text name="md_description">
+            <color>818181</color>
+        </text>
+
+        <text name="txt_descript" extra="true">
+            <color>FF0000</color>
+        </text> 
+        
+        <text name="md_lbl_releasedate">
+        <color>FF0000</color>
+        </text>
+        
+    <datetime name="md_releasedate">
+        <color>FF0000</color>
+        </datetime>
+
+    </view>
+
+    <view name="menu">
+
+        <menuText name="menufooter">
+            <color>dd0000ff</color>
+        </menuText>
+
+        <menuText name="menutext">
+            <color>ffffffff</color>
+            <separatorColor>222222ff</separatorColor>
+            <selectorColor>ffffffff</selectorColor>
+            <selectedColor>dd0000ff</selectedColor>
+        </menuText>
+
+        <menuTextSmall name="menutextsmall">
+            <color>ffffffff</color>
+        </menuTextSmall>
+
+        <menuText name="menutitle">
+            <color>ffffffff</color>
+        </menuText>
+
+        <menuBackground name="menubg">
+            <color>111111ff</color>
+        </menuBackground>
+
+    </view>
+</theme>
