@@ -292,15 +292,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <menuText name="menufooter">
         <fontSize>.025</fontSize>
-        <color>ffffffff</color>
+        <color>dd0000ff</color>
     </menuText>
 
     <menuText name="menutext">
         <fontSize>.042</fontSize>
         <color>ffffffff</color>
-        <separatorColor>ffffffff</separatorColor>
+        <separatorColor>222222ff</separatorColor>
         <selectorColor>ffffffff</selectorColor>
-        <selectedColor>333333FF</selectedColor>
+        <selectedColor>dd0000ff</selectedColor>
     </menuText>
 
     <menuTextSmall name="menutextsmall">
@@ -314,7 +314,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </menuText>
 
     <menuBackground name="menubg">
-        <color>22222222</color>
+        <color>111111ff</color>
     </menuBackground>
 
 </view>
