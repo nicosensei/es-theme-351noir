@@ -65,12 +65,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         </text> 
         
         <text name="md_lbl_releasedate">
-        <color>b2b2b2</color>
+            <color>6854a5</color>
         </text>
         
-    <datetime name="md_releasedate">
-        <color>b2b2b2</color>
+        <datetime name="md_releasedate">
+            <color>6854a5</color>
         </datetime>
+
+        <rating name="md_rating" extra="true">
+            <filledPath>./_art/var/star_filled_grey.png</filledPath>
+            <unfilledPath>./_art/var/star_hollow_grey.png</unfilledPath>
+        </rating>
 
     </view>
 

@@ -216,8 +216,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <rating name="md_rating" extra="true">
             <pos>0.75 0.67</pos>
             <size>0 0.05</size>
-            <filledPath>./_art/var/star_filled.svg</filledPath>
-            <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
+            <!--filledPath>./_art/var/star_filled.svg</filledPath-->
+            <!--unfilledPath>./_art/var/star_hollow.svg</unfilledPath-->
         </rating>
     
                

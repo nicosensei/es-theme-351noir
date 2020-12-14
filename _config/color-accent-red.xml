@@ -65,12 +65,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         </text> 
         
         <text name="md_lbl_releasedate">
-        <color>FF0000</color>
+            <color>FF0000</color>
         </text>
         
-    <datetime name="md_releasedate">
-        <color>FF0000</color>
+         <datetime name="md_releasedate">
+            <color>FF0000</color>
         </datetime>
+
+        <rating name="md_rating" extra="true">
+            <filledPath>./_art/var/star_filled_red.png</filledPath>
+            <unfilledPath>./_art/var/star_hollow_red.png</unfilledPath>
+        </rating>
 
     </view>
 
