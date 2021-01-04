@@ -81,28 +81,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <view name="menu">
 
-        <menuText name="menufooter">
-            <color>dd0000ff</color>
+        <menuText name="menutitle">
+            <color>FF0000</color>
         </menuText>
 
         <menuText name="menutext">
-            <color>ffffffff</color>
-            <separatorColor>222222ff</separatorColor>
-            <selectorColor>ffffffff</selectorColor>
-            <selectedColor>dd0000ff</selectedColor>
+            <color>818181</color>
+	        <selectorColor>FF0000</selectorColor>
+	        <separatorColor>272727</separatorColor>
         </menuText>
 
-        <menuTextSmall name="menutextsmall">
-            <color>ffffffff</color>
-        </menuTextSmall>
-
-        <menuText name="menutitle">
-            <color>ffffffff</color>
+        <menuText name="menufooter">
+            <color>FF0000</color>
         </menuText>
-
-        <menuBackground name="menubg">
-            <color>111111ff</color>
-        </menuBackground>
 
     </view>
 </theme>

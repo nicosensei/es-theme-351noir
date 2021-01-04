@@ -288,32 +288,24 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             </video>
         </view>
     </feature>
-    
+
     <view name="menu">
-    
-        <menuText name="menufooter">
-            <fontSize>.025</fontSize>
-            <!--color>dd0000ff</color-->
-        </menuText>
-    
-        <menuText name="menutext">
-            <fontSize>.042</fontSize>
-            <!--color>ffffffff</color-->
-            <!--separatorColor>222222ff</separatorColor-->
-            <!--selectorColor>ffffffff</selectorColor-->
-            <!--selectedColor>dd0000ff</selectedColor-->
-        </menuText>
-    
-        <menuTextSmall name="menutextsmall">
-            <fontSize>.035</fontSize>
-            <color>ffffffff</color>
-        </menuTextSmall>
-    
+        <menuBackground name="menubg">
+           <color>12121299</color>
+           <cornerSize>32 32</cornerSize>
+        </menuBackground>
         <menuText name="menutitle">
-            <fontSize>.06</fontSize>
-            <!--color>ffffffff</color-->
+            <fontPath>./_art/Acre.otf</fontPath>
+            <fontSize>0.06</fontSize>
         </menuText>
-        
+        <menuText name="menutext">
+            <fontPath>./_art/BebasNeue.otf</fontPath>
+            <fontSize>0.05</fontSize>
+        </menuText>
+        <menuText name="menufooter">
+            <fontPath>./_art/Acre.otf</fontPath>
+            <fontSize>0.03</fontSize>
+        </menuText>
     </view>
 
 </theme>
