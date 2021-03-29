@@ -120,7 +120,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <fontPath>./_art/Acre.otf</fontPath>
             <alignment>left</alignment>
             <forceUppercase>0</forceUppercase>
-            <fontSize>0.0285</fontSize>
+            <fontSize>0.0265</fontSize>
             <!--color>8F8F8F</color-->
             <lineSpacing>1.16</lineSpacing>
             <origin>0 0</origin>
