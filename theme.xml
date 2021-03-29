@@ -24,5 +24,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <include subset="colorset" name="Cyber Blue">./_config/color-accent-blue.xml</include>
     <include subset="colorset" name="GBA Purple">./_config/color-accent-purple.xml</include>
     <include subset="colorset" name="Metal Grey">./_config/color-accent-grey.xml</include>
+    <include subset="colorset" name="Mellow Yellow">./_config/color-accent-yellow.xml</include>
 
 </theme>

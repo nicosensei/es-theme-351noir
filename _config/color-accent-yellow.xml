@@ -1,0 +1,99 @@
+<!--
+Theme name:  351 Noir
+Author:      MonsieurDaz
+Edited by:   Nikojiro
+Based on:	 Epic Noir
+Artwork by:  Various 
+Coding by:   Nick L (c64-dev) & MonsieurDaz
+Fonts used:  Acre Medium & Bebas Neue Bold
+
+# Thanks and Credits
+Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
+
+# License
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
+-->
+
+<theme>
+    <formatVersion>4</formatVersion>
+
+    <view name="system">
+        
+        <text name="sys_line1" extra="true">
+            <color>e5bd2d</color>
+        </text>
+        
+        <text name="sys_line2" extra="true">
+            <color>e5bd2d</color>
+        </text>
+
+        <text name="shortdescription" extra="true">
+            <color>9b9a9a</color>
+        </text>
+
+        <text name="systemInfo">
+            <color>e5bd2d</color>
+        </text>
+        
+        <text name="longdescription" extra="true">
+            <color>8F8F8F</color>
+        </text>
+
+    </view>
+
+    <view name="basic, detailed, video">
+
+        <textlist name="gamelist">
+            <selectorColor>e5bd2d</selectorColor>
+            <selectedColor>F8F8F8</selectedColor>
+        </textlist>
+        
+        <text name="top_label" extra="true">
+            <color>F8F8F8</color>
+        </text>
+        
+        <text name="nameLabel" extra="true">
+            <color>e5bd2d</color>
+        </text>
+
+        <text name="md_description">
+            <color>818181</color>
+        </text>
+
+        <text name="txt_descript" extra="true">
+            <color>e5bd2d</color>
+        </text> 
+        
+        <text name="md_lbl_releasedate">
+            <color>e5b937</color>
+        </text>
+        
+        <datetime name="md_releasedate">
+            <color>e5b937</color>
+        </datetime>
+
+        <rating name="md_rating" extra="true">
+            <filledPath>./_art/var/star_filled_yellow.png</filledPath>
+            <unfilledPath>./_art/var/star_hollow_yellow.png</unfilledPath>
+        </rating>
+
+    </view>
+
+    <view name="menu">
+
+        <menuText name="menutitle">
+            <color>c9a026</color>
+        </menuText>
+
+        <menuText name="menutext">
+            <color>818181</color>
+	        <selectorColor>c9a026ff</selectorColor>
+	        <separatorColor>272727</separatorColor>
+        </menuText>
+
+        <menuText name="menufooter">
+            <color>c9a026</color>
+        </menuText>
+
+    </view>
+</theme>
