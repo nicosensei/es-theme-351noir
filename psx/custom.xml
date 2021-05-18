@@ -18,7 +18,7 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Playstation</text>
-     <fontSize>0.16</fontSize>
+     <!--fontSize>0.16</fontSize-->
     <origin>0 0</origin>
     <pos>0.05 0.15</pos>
     <size>0 0</size>
